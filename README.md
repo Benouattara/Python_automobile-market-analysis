@@ -322,9 +322,13 @@ Toutes les visualisations Plotly sont **interactives** :
 - Filtrage dynamique
 - Export en image
 
+<img width="5372" height="3576" alt="distribution_overview" src="https://github.com/user-attachments/assets/7af3ff74-f5bb-4127-b6fa-8127ac600c29" />
+
+
+
 ## 🤝 Contributeurs
 
-- **Votre Nom** - *Développeur Principal* - [GitHub](https://github.com/votre-username)
+- **BEN OUATTARA** - *Data analyst* - https://github.com/BenOuattara
 
 ## 📝 License
 
@@ -346,4 +350,3 @@ Pour toute question ou suggestion :
 
 ⭐ **Si ce projet vous plaît, n'hésitez pas à lui donner une étoile !** ⭐
 
-Fait avec ❤️ et Python 🐍
