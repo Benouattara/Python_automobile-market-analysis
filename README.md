@@ -339,9 +339,8 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 ## 📧 Contact
 
 Pour toute question ou suggestion :
-- **Email** : votre.email@example.com
-- **LinkedIn** : [Votre Profil](https://linkedin.com/in/votre-profil)
-- **Portfolio** : [votre-site.com](https://votre-site.com)
+- **Email** : benouattara3@gmail.com
+- **Portfolio** : https://benouattara.github.io
 
 ---
 
